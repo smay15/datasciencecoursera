@@ -1,8 +1,8 @@
-title: "HelloWorld"
-author: "Saung Oo May"
-date: "12 13 2021"
-output: html_document
+# title: "HelloWorld"
+# author: "Saung Oo May"
 
+```{r}
 print("Hello world")
+```
 
 ## This is a markdown file
